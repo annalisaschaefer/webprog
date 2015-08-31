@@ -1,0 +1,54 @@
+body{
+    font-size: small;
+    font-family: cursive, inherit, sans-serif;
+    line-height: 1.6em;}
+h1, h2{
+    color: #007e7e;}
+h1{
+    font-size: 150%;}
+h2{
+    font-size: 130%;}
+p{
+    color: gray;}
+#beispiel{
+    font-size: 110%;
+    border-color: white;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 15px;
+    background-color: #a7cece;
+    padding: 25px;
+    padding-left: 5%;
+    margin: 10%;
+    margin-right: 10%;
+    background-image: "";
+    background-repeat: no-repeat;
+    background-position: top left;}
+#abs1, #abs2{
+    border-color: black;
+    border-width: 1px;
+    border-style:double;
+    padding: 25px;
+    margin: 30px;}
+#abs1{
+    width: 40%;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    text-align: center;
+    float: right;}
+#fuss{
+    text-align: center;
+    clear: right;}
+#erstaunlich{
+    }
+.part1{
+    font-style: italic;}
+.part2{
+    font-style: bold;}
+a:link{
+    color: green;}
+a:visited{
+    color: red;}
+a:hover{
+    color: yellow;}

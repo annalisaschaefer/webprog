@@ -1,0 +1,26 @@
+body {
+    background-color: beige;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif, cursive, fantasy;
+    font-size: small;}
+a {
+    font-family: cursive;}
+h1,h2 {
+    font-family: sans-serif;
+    color: gray;}
+h1 {
+    border-bottom: 1px solid black;
+    font-size: 120%;}
+h2{
+    font-size: 110%;
+    font-weight: normal;}
+p.test2{
+    font-family: fantasy;
+    font-size: 14px;
+    color: silver;
+    font-weight: bold;
+    text-decoration: underline;}
+blockquote{
+    font-style: italic;}
